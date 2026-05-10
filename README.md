@@ -9,3 +9,12 @@ grounds are shared
 3.7v is directly connected to the c3 3.3v
 
 a button directly cuts the power from the charging board, the device does not have a deep sleep mode.
+
+it should be noted that the componets used were
+3.7v lipo battery with preinstalled BMS
+SH1106 1.4 inch OLED display
+DS3231 RTC
+a associated coin cell
+a tactile button connected directly to the charger output positive terminal
+the TP4056 charger
+M3 bolts and nuts 
