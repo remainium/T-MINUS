@@ -18,3 +18,6 @@ a associated coin cell
 a tactile button connected directly to the charger output positive terminal
 the TP4056 charger
 M3 bolts and nuts 
+
+
+* it should be noted that the code is not made by me, this was my first time working with a screen and wifi and rtc so it was too complex for me to reliably create, after some experimenantion with the codes seperatly like displaying hello world, connecting my esp3 to the wifi and some failures, i decided that i couldent completely create the code myself.
