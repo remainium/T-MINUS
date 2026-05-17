@@ -50,9 +50,9 @@ and uses a text string to print the date
 
 | Name of components        | Amount  |  price($) | sources |
 |---------------------------|---------|-----------|---------|
-| E-paper 2.1 inch display  | 1       | 19.8      | Amazon  |
-| Tactile buttons           | 1(10)   | 1.05      | Amazon  |
-|  RTC (DS3231)             | 1       | 3.13      | amazon  |
-|  SD card reader           | 1       | 1.04      | Amazon  |
-| SD card                   | 1       | 4.17      | Amazon  |
-| on/off switch             | 1(10)   | 0.57      | Amazon  |
+| E-paper 2.1 inch display  | 1       | 19.8      | [Amazon](https://www.amazon.in/gp/product/B07ZGQWKQR/ref=ox_sc_act_title_9?smid=A3OFE3UKIO43OW&psc=1)  |
+| Tactile buttons           | 1(10)   | 1.05      | [Amazon](https://www.amazon.in/gp/product/B0DT18FM7J/ref=ox_sc_act_title_8?smid=A1UUD7CBBVVXIG&psc=1)  |
+|  RTC (DS3231)             | 1       | 3.13      | [amazon](https://www.amazon.in/gp/product/B0BZL9TB1W/ref=ox_sc_act_title_3?smid=A1SYL30TCF83WC&psc=1)  |
+|  SD card reader           | 1       | 1.04      | [Amazon](https://www.amazon.in/gp/product/B073Q2HY3Q/ref=ox_sc_act_title_4?smid=A2FGC2POOS3TS8&psc=1)  |
+| SD card                   | 1       | 4.17      | [Amazon](https://www.amazon.in/gp/product/B0GVJRTL4D/ref=ox_sc_act_title_7?smid=AJ6SIZC8YQDZX&psc=1) |
+| on/off switch             | 1(10)   | 0.57      | [Amazon](https://www.amazon.in/gp/product/B0B7NKGPYX/ref=ox_sc_act_title_1?smid=A366YFPXO3CTI5&psc=1)  |
