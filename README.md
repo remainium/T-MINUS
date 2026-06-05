@@ -65,6 +65,24 @@ calculates if its AM or PM
 
 and uses a text string to print the date
 
+# build instructions
+
+<img width="1587" height="2245" alt="3 7v GND" src="https://github.com/user-attachments/assets/bca8c580-7300-4dc1-824f-e1efcfc72201" />
+
+* using 4 m3 bolts and nuts, attach the screen to the large square cutout
+* using glue attach button to the button cutout
+* attach the tp4056 to the battery via double tap
+* position the cap so that the tp4056 charging point aligns with the slot in the case
+* using four m3 bolts and nuts attach the case to the cap
+* insert the velcrow straps through the slits at the bottom and use extra straps ctout to place on top to change tightness
+
+# firmware
+the firmware code can be flashed into the C3 via arduino.ide
+you must download all mentioned libraries in the code aswell as the  ESP32 Arduino Core by Espressif Systems library for arduino.ide
+
+# printing
+print with supports on each gap including the slits, and remove the support structure via something thin
+
 ## Bill of Materials
 
 
