@@ -22,10 +22,8 @@ void setup() {
   rtc.begin(); 
   prefs.begin("clock-app", false); 
   
-  // Read permanent flag to check if it has ever synced before
-  bool firstBoot = prefs.getBool("firstBoot", true); 
+   bool firstBoot = prefs.getBool("firstBoot", true); 
   
-  // LOGIC: Only ever run Wi-Fi setup if it's the absolute first boot after an upload
   if (firstBoot) { 
     u8g2.clearBuffer(); 
     u8g2.sendBuffer(); 
@@ -41,7 +39,6 @@ void setup() {
       if (getLocalTime(&timeinfo)) { 
         rtc.adjust(DateTime(timeinfo.tm_year + 1900, timeinfo.tm_mon + 1, timeinfo.tm_mday, timeinfo.tm_hour, timeinfo.tm_min, timeinfo.tm_sec)); 
         
-        // Lock this flag permanently in flash memory so it never triggers again
         prefs.putBool("firstBoot", false); 
       } 
     } 
@@ -60,24 +57,20 @@ void loop() {
   if (h12 == 0) h12 = 12; 
   const char* ampm = (now.hour() < 12) ? "AM" : "PM"; 
   
-  // Text buffers for formatting the calendar details
-  char dateBuf[32];
+    char dateBuf[32];
   const char* daysOfWeek[] = {"Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"};
   const char* monthsOfYear[] = {"Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"};
   
   u8g2.clearBuffer(); 
   
-  // Time 
   u8g2.setFont(u8g2_font_logisoso24_tn); 
   sprintf(timeBuf, "%d:%02d:%02d", h12, now.minute(), now.second()); 
   u8g2.drawStr((128 - u8g2.getStrWidth(timeBuf)) / 2, 32, timeBuf); 
   
-  // AM/PM 
-  u8g2.setFont(u8g2_font_6x10_tf); 
+   u8g2.setFont(u8g2_font_6x10_tf); 
   u8g2.drawStr((128 - u8g2.getStrWidth(ampm)) / 2, 45, ampm); 
   
-  // Full Date Row: Format as "Day, DD Month YYYY" (e.g., "Mon, 15 May 2026")
-  sprintf(dateBuf, "%s, %02d %s %d", daysOfWeek[now.dayOfTheWeek()], now.day(), monthsOfYear[now.month() - 1], now.year());
+    sprintf(dateBuf, "%s, %02d %s %d", daysOfWeek[now.dayOfTheWeek()], now.day(), monthsOfYear[now.month() - 1], now.year());
   u8g2.drawStr((128 - u8g2.getStrWidth(dateBuf)) / 2, 58, dateBuf);
   
   u8g2.sendBuffer(); 
