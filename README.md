@@ -1,3 +1,12 @@
+## Project Description & Unique Value
+
+this project was made because i despertaly needed a clock i could put on my desk, something i could wear on the go that was made by me, and something with a bit of gimick aswell
+it built because i wanted to show that i could absoltly make something real and that my experince and skills werent theoretical
+
+its unique because it uses commercial parts and simple assmbely that anyone could make
+its super simple in its design and has a lot of functions for what its worth so you wont just find it useful as a watch but also something youll find yourself using day in and day out
+
+
 # Project Images
 
 <img width="1654" height="2480" alt="Beige_and_Black_Colorful_Abstract_Modern_Art_Festival_Poster_with_bgc" src="https://github.com/user-attachments/assets/fd7cf30c-511f-414b-93d5-2c9c7feb6c71" />
@@ -71,10 +80,3 @@ and uses a text string to print the date
 other than this youll also need filament, m3 bolts and nuts (8 of each), and some super glue
 
 
-## Motivation
-
-this project was made because i despertaly needed a clock i could put on my desk, something i could wear on the go that was made by me, and something with a bit of gimick aswell
-it built because i wanted to show that i could absoltly make something real and that my experince and skills werent theoretical
-
-its unique because it uses commercial parts and simple assmbely that anyone could make
-its super simple in its design and has a lot of functions for what its worth so you wont just find it useful as a watch but also something youll find yourself using day in and day out
