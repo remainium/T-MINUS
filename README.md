@@ -1,4 +1,5 @@
-<img width="1587" height="2245" alt="Beige and Black Colorful Abstract Modern Art Festival Poster" src="https://github.com/user-attachments/assets/65ca9d6a-2658-4900-94d7-d23c882fe758" />
+<img width="1654" height="2480" alt="Beige_and_Black_Colorful_Abstract_Modern_Art_Festival_Poster_with_bgc" src="https://github.com/user-attachments/assets/fd7cf30c-511f-414b-93d5-2c9c7feb6c71" />
+
 <img width="1587" height="2245" alt="3 7v GND" src="https://github.com/user-attachments/assets/bca8c580-7300-4dc1-824f-e1efcfc72201" />
 
 wiring
