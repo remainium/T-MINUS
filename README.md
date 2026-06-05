@@ -59,3 +59,12 @@ and uses a text string to print the date
 |  SD card reader           | 1       | 1.04      | [Amazon](https://www.amazon.in/gp/product/B073Q2HY3Q/ref=ox_sc_act_title_4?smid=A2FGC2POOS3TS8&psc=1)  |
 | SD card                   | 1       | 4.17      | [Amazon](https://www.amazon.in/gp/product/B0GVJRTL4D/ref=ox_sc_act_title_7?smid=AJ6SIZC8YQDZX&psc=1) |
 | on/off switch             | 1(10)   | 0.57      | [Amazon](https://www.amazon.in/gp/product/B0B7NKGPYX/ref=ox_sc_act_title_1?smid=A366YFPXO3CTI5&psc=1)  |
+
+other than this youll also need filament, m3 bolts and nuts (8 of each), and some super glue
+
+
+this project was made because i despertaly needed a clock i could put on my desk, something i could wear on the go that was made by me, and something with a bit of gimick aswell
+it built because i wanted to show that i could absoltly make something real and that my experince and skills werent theoretical
+
+its unique because it uses commercial parts and simple assmbely that anyone could make
+its super simple in its design and has a lot of functions for what its worth so you wont just find it useful as a watch but also something youll find yourself using day in and day out
