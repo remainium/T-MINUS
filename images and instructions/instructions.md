@@ -5,3 +5,4 @@
 * attach the tp4056 to the battery via double tap
 * position the cap so that the tp4056 charging point aligns with the slot in the case
 * using four m3 bolts and nuts attach the case to the cap
+* insert the velcrow straps through the slits at the bottom and use extra straps ctout to place on top to change tightness
