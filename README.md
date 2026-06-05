@@ -1,4 +1,5 @@
 <img width="1587" height="2245" alt="Beige and Black Colorful Abstract Modern Art Festival Poster" src="https://github.com/user-attachments/assets/65ca9d6a-2658-4900-94d7-d23c882fe758" />
+<img width="1587" height="2245" alt="3 7v GND" src="https://github.com/user-attachments/assets/bca8c580-7300-4dc1-824f-e1efcfc72201" />
 
 wiring
 rtc, screen sck/scl - esp 32 c3 GPIO 9
