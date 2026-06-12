@@ -97,7 +97,6 @@ print with supports on each gap including the slits, and remove the support stru
 
 other than this youll also need filament, m3 bolts and nuts (8 of each), and some super glue
 
-#ASSEMBLY
 
 heres a small 5 minute video tutroial on the physical assembly!
 https://youtu.be/ivi5Ne20XsM?si=y9z8nuoeI0cbMitT
