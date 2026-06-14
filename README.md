@@ -99,4 +99,4 @@ other than this youll also need filament, m3 bolts and nuts (8 of each), and som
 
 
 heres a small 5 minute video tutroial on the physical assembly!
-https://youtu.be/ivi5Ne20XsM?si=y9z8nuoeI0cbMitT
+https://youtu.be/wtcD-OLIiVg?si=eawSVuiICNZfYHUN
